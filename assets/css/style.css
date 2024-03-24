@@ -154,7 +154,7 @@ html {
 }
 
 body {
-  background-color: var(--white-1);
+  background-color: var(--black-1);
   color: var(--granite-gray);
   font-size: 1.6rem;
 }
